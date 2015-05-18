@@ -14,7 +14,7 @@ There are no issues about the installation.
 
 # move package problem
 
-If calling R CMD check with the current version of the move package installed,
+If calling R CMD check with the current version of the move package (Version: 1.2.475)  installed,
 one gets a warning related to a clean unloading of the namespace. In particular:
 Error in .mergeMethodsTable(generic, mtable, get(tname, envir = env),  : ...
 
